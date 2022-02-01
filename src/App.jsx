@@ -1,7 +1,8 @@
+import Transaction from './Components/TransactionForm/TransactionForm';
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <Transaction/>
     </div>
   );
 }
